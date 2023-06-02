@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/j7k6JOp8LufhXspVfu" width="480" height="480"/>
+  <img src="https://giphy.com/embed/j7k6JOp8LufhXspVfu" width="480" height="480" frameBorder="0" class="giphy-embed"/>
 </div>
+
+<iframe src="https://giphy.com/embed/j7k6JOp8LufhXspVfu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PudgyMemez-work-digital-phone-j7k6JOp8LufhXspVfu">via GIPHY</a></p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrew-hamilton-37bb8516b">
